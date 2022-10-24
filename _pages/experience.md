@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 redirect_from:
   - /experience
-  - /experience.html
+  - /experience.md
 ---
 
 {% include base_path %}
