@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Click here for the full CV [in PDF](https://github.com/ryansun117/ryansun117.github.io/blob/master/files/Xuxiang_Sun_Resume.pdf)
+Click here for the full CV [in PDF](/files/Xuxiang_Sun_Resume.pdf)
