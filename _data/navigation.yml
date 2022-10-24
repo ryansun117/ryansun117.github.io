@@ -1,5 +1,21 @@
 # main links links
 main:
+
+  - title: "Experience"
+    url: /experience/
+    
+  - title: "Research"
+    url: /research/
+    
+  - title: "Projects"
+    url: /projects/    
+    
+  - title: "CV"
+    url: /cv/
+
+  - title: "Gallaries"
+    url: /gallaries/    
+
 #   - title: "Publications"
 #     url: /publications/
 
@@ -8,24 +24,9 @@ main:
 
 #   - title: "Teaching"
 #     url: /teaching/    
-
-  - title: "Experience"
-    url: /experience/
-    
-  - title: "Research"
-    url: /research/
         
 #   - title: "Blog Posts"
 #     url: /year-archive/
     
-  - title: "Projects"
-    url: /projects/    
-    
-  - title: "CV"
-    url: /cv/
-    
 #   - title: "Guide"
 #     url: /markdown/
-
-  - title: "Gallaries"
-    url: /gallaries/    
