@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am currently an undergraduate research assistant advised by Professor [Shivaram Venkataraman](https://shivaram.org/). My research experience consisted of two projects: Marius and ASKEM. Below are details of each.
+I am currently an undergraduate research assistant advised by Professor [Shivaram Venkataraman](https://shivaram.org/). My research experience consists of two projects, Marius and ASKEM, both of which involves work with data engineering, systems and databases, knowledge graphs, and machine learning. Below are details of each of them.
 
 ## Research Experience
 
