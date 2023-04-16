@@ -14,15 +14,15 @@ Much of my experience revolves around software engineering, with a focus on work
 
 ## Education
 
-* B.S. in Computer Science and Mathematics, University of Wisconsin-Madison, 2019-2023
+* B.S., Computer Science and Mathematics, University of Wisconsin-Madison, 2019-2023
 
 ## Work experience
 
 * **Undergraduate Research Assistant**, University of Wisconsin-Madison, Sept 2021-Present
 
-* **Amazon Web Services**, Software Development Engineer Intern, May-Aug 2022
+* **Software Development Engineer Intern**, Amazon Web Services, May-Aug 2022
 
-* **TDS Telecom**, Software Engineer Intern, Jun 2021-May 2022
+* **Software Engineer Intern**, TDS Telecom, Jun 2021-May 2022
 
 * **Data Engineer Intern**, Covestro, Mar–May 2021
 
