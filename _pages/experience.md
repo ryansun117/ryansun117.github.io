@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Much of my experience revolves around software engineering, with a focus on working with data and machine learning. See also: [Research experience](https://ryansun117.github.io/research/) at the undergraduate level. Full CV and details on the [CV page](https://ryansun117.github.io/cv/).
+Much of my experience revolves around software engineering, with a focus on working with data and machine learning. See also: [Research experience](https://ryansun117.github.io/research/) at the undergraduate level. Full CV with details on the [CV page](https://ryansun117.github.io/cv/). Outdated personal website [xuxiangsun.com](http://xuxiangsun.com) (could be deactivated anytime).
 
 ## Education
 
