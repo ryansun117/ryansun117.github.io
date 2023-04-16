@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Below is a list of my work experience, skills, and projects. A good deal of my experience revolves around software engineering and working with data and machine learning. I also have experience with [researching](https://ryansun117.github.io/research/) at an undergraduate level. The full CV and details can be found on the [CV page](https://ryansun117.github.io/cv/).
+Much of my experience revolves around software engineering, with a focus on working with data and machine learning. See also: [Research experience](https://ryansun117.github.io/research/) at the undergraduate level. Full CV and details on the [CV page](https://ryansun117.github.io/cv/).
 
 ## Education
 
