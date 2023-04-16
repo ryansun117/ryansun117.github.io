@@ -10,14 +10,14 @@ redirect_from:
 
 {% include base_path %}
 
-I am an undergraduate research assistant advised by Professor [Shivaram Venkataraman](https://shivaram.org/) in the [madSystems group](https://madsystems.cs.wisc.edu/). My research experience comprises two projects, Marius and ASKEM, both of which involve work with data engineering, systems and databases, knowledge graphs, and machine learning. Below are details of each of them.
+My research experience comprises two projects, ASKEM and Marius, both of which involve work with data engineering, systems and databases, knowledge graphs, and machine learning. Below are details of each of them.
 
 ## Research Experience
 
 * **ASKEM (Automating Scientific Knowledge Extraction Modeling)**, Sept 2022-Present
-  * DARPA’s [Automating Scientific Knowledge Extraction Modeling](https://www.darpa.mil/program/automating-scientific-knowledge-extraction-and-modeling) project in collaboration with researchers across multiple institutions: Developed RDF to relational entities conversion tool to extract entities from knowledge graphs and injected them into the [xDD](https://xdd.wisc.edu/) knowledgebase.
+  * DARPA’s [Automating Scientific Knowledge Extraction Modeling](https://www.darpa.mil/program/automating-scientific-knowledge-extraction-and-modeling) project: Developed RDF to relational entities conversion tool to extract entities from knowledge graphs and injected them into the [xDD](https://xdd.wisc.edu/) knowledgebase.
   * Improved the table extraction feature in [COSMOS](https://xdd.wisc.edu/); Indexed entities in xDD using a machine reading pipeline.
-  * ASKEM aims to automate the knowledge extraction from scientific models. It is funded by DARPA and being worked on by researchers in Center for High Throughput Computing at UW-Madison, the indestry, and other academic institutions.
+  * ASKEM, which aims to automate knowledge extraction from scientific models, is funded by DARPA and being developed by researchers at the Center for High Throughput Computing at UW-Madison, in collaboration with industry partners and other academic institutions.
 
 * **Marius**, Sept 2021-May 2022
   * Developed Db2Graph, a database to knowledge graph conversion tool, as a feature for Marius. 
