@@ -15,7 +15,7 @@ Much of my experience revolves around software engineering, with a focus on work
 ## Education
 
 * B.S., Computer Science and Mathematics, University of Wisconsin-Madison, 2019-2023
-* Relevant coursework: Big Data Systems (graduate level), Distributed Systems (audit, graduate level), Machine Learning (audit, graduate level), Algorithms, Artificial Intelligence, Networks, Databases, Operating Systems
+  * Relevant coursework: Big Data Systems (graduate level), Distributed Systems (audit, graduate level), Machine Learning (audit, graduate level), Algorithms, Artificial Intelligence, Networks, Databases, Operating Systems
 
 ## Work experience
 
