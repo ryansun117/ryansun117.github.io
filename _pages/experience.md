@@ -15,6 +15,7 @@ Much of my experience revolves around software engineering, with a focus on work
 ## Education
 
 * B.S., Computer Science and Mathematics, University of Wisconsin-Madison, 2019-2023
+* Relevant coursework: Big Data Systems (graduate level), Distributed Systems (audit, graduate level), Machine Learning (audit, graduate level), Algorithms, Artificial Intelligence, Networks, Databases, Operating Systems
 
 ## Work experience
 
@@ -35,11 +36,3 @@ Much of my experience revolves around software engineering, with a focus on work
   * Familiar with C#, HTML, CSS, JavaScript
 * Technologies/Frameworks:
   * AWS, GCP, Kafka, Spring Boot, Maven, Oracle DB, MySQL, PostgreSQL, Nagios, Kibana, Elasticsearch, Talend, Snowflake, REST APIs, Linux, Git, Docker, ASP.NET, MVC, Flask, BootStrap
-
-## Projects
-
-* Official Website for Chinese Students & Scholars Association at UW-Madison, Sept 2019-May 2022
-  * Developed and deployed the official website using HTML, CSS, and JavaScript. Preview at [cssaatuwmadison](http://www.cssaatuwmadison.com.cn/).
-
-* COVID-19 Visualizations & Predictions, Mar-June 2021
-  * Python data analysis, prediction, and visualization of confirmed COVID-19 cases based on [data repository from JHU](https://github.com/CSSEGISandData/COVID-19).
